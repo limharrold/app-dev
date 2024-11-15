@@ -1,7 +1,7 @@
 # app-dev
 # MY FAVORITE SERIES/MOVIES
 
-** 1. Wandering Earth ** 
+1. Wandering Earth
 ### It is a great movie which a chinese made but with great fiction films and concepts on which, they build a Earth Engines on where the entire Planet Earth is to go out from our current Solar System using the Earth Engines where to find a new home.
 
 ### What makes the Wandering Earth Special: 
@@ -9,7 +9,7 @@
 - ** Futuristic Plans: ** It shows the great engineering capability of humanity on the future
 - ** Heartfelt Story: ** The movie shows great relationships, sacrifice and the enduring spirit of hope.
 
-** 2. Stranger Things ** 
+2. Stranger Things
 ### It is a great sci-fi series in Netflix with horror drama which give nostalgic atmosphere, and memorable character on which still ongoing season now from 1980s - Present (2024)
 
 ### What makes the Stranger Things Special:
